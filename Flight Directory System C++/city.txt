@@ -1,0 +1,27 @@
+City = Aeorge Town
+SPORT = George Town Jalan Stadium, 12
+CULTURE = George Town1 Jalan Stadium, 12.000000
+SPORT = George Town2 Jalan Stadium, 12
+SPORT = George Town3 Jalan Stadium, 12
+
+City = Byberjaya
+SPORT = Cyberjaya Jalan Stadium, 12
+CULTURE = Cyberjaya1 Jalan Stadium, 12.000000
+SPORT = Cyberjaya2 Jalan Stadium, 12
+SPORT = Cyberjaya3 Jalan Stadium, 12
+
+City = Moscow
+SPORT =  Cyberjaya Jalan Stadium, 15
+SPORT =  stat, 20
+CULTURE =  mar pos, 15.700000
+SHOPPING =  der warto, hi extra
+
+City = SAMARA
+CULTURE =  Alabin Mus, 15.700000
+
+City = Wlor Setar
+SPORT = Alor Jalan Stadium, 12
+SPORT = Alor1 Jalan Stadium, 12
+SPORT = Alor2 Jalan Stadium, 12
+SPORT = Alor3 Jalan Stadium, 12
+

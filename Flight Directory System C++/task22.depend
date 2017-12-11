@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1455761728 source:d:\users\den1008\desktop\proj\task22\attraction.cpp
+	"Attraction.h"
+	<iostream>
+
+1455762962 d:\users\den1008\desktop\proj\task22\attraction.h
+	<string>
+
+1455761744 source:d:\users\den1008\desktop\proj\task22\city.cpp
+	"City.h"
+	"ImplementationListStack.h"
+
+1455752633 d:\users\den1008\desktop\proj\task22\city.h
+	"Attraction.h"
+	"interfaceListStack.h"
+	<string>
+
+1455762076 d:\users\den1008\desktop\proj\task22\interfaceliststack.h
+	<iostream>
+
+1455761980 d:\users\den1008\desktop\proj\task22\implementationliststack.h
+	<iostream>
+	"interfaceListStack.h"
+
+1455781448 source:d:\users\den1008\desktop\proj\task22\culture.cpp
+	"Culture.h"
+	<iostream>
+
+1455761895 d:\users\den1008\desktop\proj\task22\culture.h
+	<string>
+	"Attraction.h"
+
+1455780674 source:d:\users\den1008\desktop\proj\task22\main.cpp
+	"Attraction.h"
+	"Sport.h"
+	"Culture.h"
+	"ImplementationListStack.h"
+	"Shopping.h"
+	"City.h"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<cstdlib>
+	<strings.h>
+
+1455761802 source:d:\users\den1008\desktop\proj\task22\shopping.cpp
+	"Shopping.h"
+	<iostream>
+
+1455725658 d:\users\den1008\desktop\proj\task22\shopping.h
+	<string>
+	"Attraction.h"
+
+1455725721 d:\users\den1008\desktop\proj\task22\sport.h
+	<string>
+	"Attraction.h"
+
+1455781457 source:d:\users\den1008\desktop\proj\task22\sport.cpp
+	"Sport.h"
+	<iostream>
+
+1455782629 source:c:\users\sarzi\desktop\new folder\task22\main.cpp
+	"Attraction.h"
+	"Sport.h"
+	"Culture.h"
+	"ImplementationListStack.h"
+	"Shopping.h"
+	"City.h"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<cstdlib>
+	<strings.h>
+
+1455762962 c:\users\sarzi\desktop\new folder\task22\attraction.h
+	<string>
+
+1455725721 c:\users\sarzi\desktop\new folder\task22\sport.h
+	<string>
+	"Attraction.h"
+
+1455761895 c:\users\sarzi\desktop\new folder\task22\culture.h
+	<string>
+	"Attraction.h"
+
+1455761980 c:\users\sarzi\desktop\new folder\task22\implementationliststack.h
+	<iostream>
+	"interfaceListStack.h"
+
+1455762076 c:\users\sarzi\desktop\new folder\task22\interfaceliststack.h
+	<iostream>
+
+1455725658 c:\users\sarzi\desktop\new folder\task22\shopping.h
+	<string>
+	"Attraction.h"
+
+1455752633 c:\users\sarzi\desktop\new folder\task22\city.h
+	"Attraction.h"
+	"interfaceListStack.h"
+	<string>
+
+1455761728 source:c:\users\sarzi\desktop\new folder\task22\attraction.cpp
+	"Attraction.h"
+	<iostream>
+
+1455761744 source:c:\users\sarzi\desktop\new folder\task22\city.cpp
+	"City.h"
+	"ImplementationListStack.h"
+
+1455781448 source:c:\users\sarzi\desktop\new folder\task22\culture.cpp
+	"Culture.h"
+	<iostream>
+
+1455761802 source:c:\users\sarzi\desktop\new folder\task22\shopping.cpp
+	"Shopping.h"
+	<iostream>
+
+1455781457 source:c:\users\sarzi\desktop\new folder\task22\sport.cpp
+	"Sport.h"
+	<iostream>
+
